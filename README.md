@@ -1,8 +1,12 @@
-# SinGan Experiments
+# SinGan Experiments 🙌
 
 ## forked from tamarott/SinGan
 
-this repo is optimized for cloud computing
+this fork is for cloud computing
+
+### Prerequisites
+
+```python -m pip install -r requirements.txt```
 
 ### Train
 
