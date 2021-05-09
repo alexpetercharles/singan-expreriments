@@ -6,7 +6,7 @@ this repo is optimized for cloud computing
 
 ### Prerequisites
 
-python -m pip install -r requirements.txt```
+```python -m pip install -r requirements.txt```
 
 ### Train
 
