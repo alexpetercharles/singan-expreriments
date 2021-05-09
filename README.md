@@ -4,6 +4,10 @@
 
 this repo is optimized for cloud computing
 
+### Prerequisites
+
+python -m pip install -r requirements.txt```
+
 ### Train
 
 ```python main_train.py --input_name <input_file_name>```
