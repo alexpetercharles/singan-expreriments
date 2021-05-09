@@ -1,4 +1,4 @@
-# SinGan Experiments
+# SinGan Experiments 🙌
 
 ## forked from tamarott/SinGan
 
